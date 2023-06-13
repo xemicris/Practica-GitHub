@@ -1,3 +1,3 @@
 # Misiones
 
-* Investigar los planes del Dr. Asterix
+* Investigar los planes del Dr. Colega
